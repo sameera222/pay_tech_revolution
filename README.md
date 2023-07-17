@@ -15,13 +15,13 @@ Key Features
 
 Installation
 
-To install [App Name], follow these steps:
+To install HooBank, follow these steps:
 
     Clone the repository:
 
     bash
 
-git clone https://github.com/your-username/[app-name].git
+git clone https://github.com/your-username/pay_tech_revolution.git
 
 Install the required dependencies:
 
@@ -37,7 +37,7 @@ sql
 
 Contributing
 
-We welcome contributions to enhance [App Name]. If you'd like to contribute, please follow these guidelines:
+We welcome contributions to enhance pay_tech_revolution If you'd like to contribute, please follow these guidelines:
 
     Fork the repository and clone it locally.
 
@@ -66,8 +66,8 @@ License
 This project is licensed under the [License Name] - see the LICENSE file for details.
 Contact
 
-If you have any questions, suggestions, or issues regarding [App Name], please contact our support team at support@[app-name].com.
+If you have any questions, suggestions, or issues regarding pay_tech_revolution.
 
-Experience the future of payments with [App Name]. Download our app today and embark on a seamless journey towards a smarter and more efficient way of transacting.
+Experience the future of payments with HooBank. Download our app today and embark on a seamless journey towards a smarter and more efficient way of transacting.
 
 Remember to customize the README file to include specific instructions, dependencies, and licensing details relevant to your app.
